@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=572d7f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Evanyhelen+Martins;I'm+21+years+old;I'm+from+Brazil;Software+Engineering+Academic;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Evanyhelen&show_icons=true&count_private=true&hide_border=true&title_color=572d7f&icon_color=9932CC&text_color=572d7f&bg_color=0d1117" alt="Evanyhelen Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evanyhelen&layout=compact&hide_border=true&title_color=993399&text_color=993399&bg_color=572d7f" />
-</br></br></br>
-</div>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evanyhelen&bg_color=000000&color=572d7f&line=835480&point=572d7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
