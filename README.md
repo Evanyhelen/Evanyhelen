@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=572d7f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Evanyhelen+Martins;I'm+21+years+old;I'm+from+Brazil;Software+Engineering+Academic;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
+<h1 align="center">HELLO, My name is Evanyhelen Martins 👋</h1>
+<h3 align="center">I'm from Brazil 🇧🇷 | Software Engineering Academic</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evanyhelen&bg_color=000000&color=572d7f&line=835480&point=572d7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
